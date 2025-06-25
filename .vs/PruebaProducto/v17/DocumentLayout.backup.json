@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lizeth\\Documents\\Prueba\\PruebaProducto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F71AE763-7778-4C48-80A1-5867D7ED3F42}|PruebaProducto\\PruebaProducto.csproj|c:\\users\\lizeth\\documents\\prueba\\pruebaproducto\\pruebaproducto\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71AE763-7778-4C48-80A1-5867D7ED3F42}|PruebaProducto\\PruebaProducto.csproj|solutionrelative:pruebaproducto\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71AE763-7778-4C48-80A1-5867D7ED3F42}|PruebaProducto\\PruebaProducto.csproj|c:\\users\\lizeth\\documents\\prueba\\pruebaproducto\\pruebaproducto\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F71AE763-7778-4C48-80A1-5867D7ED3F42}|PruebaProducto\\PruebaProducto.csproj|solutionrelative:pruebaproducto\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71AE763-7778-4C48-80A1-5867D7ED3F42}|PruebaProducto\\PruebaProducto.csproj|c:\\users\\lizeth\\documents\\prueba\\pruebaproducto\\pruebaproducto\\views\\home\\productodetalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F71AE763-7778-4C48-80A1-5867D7ED3F42}|PruebaProducto\\PruebaProducto.csproj|solutionrelative:pruebaproducto\\views\\home\\productodetalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71AE763-7778-4C48-80A1-5867D7ED3F42}|PruebaProducto\\PruebaProducto.csproj|c:\\users\\lizeth\\documents\\prueba\\pruebaproducto\\pruebaproducto\\views\\home\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F71AE763-7778-4C48-80A1-5867D7ED3F42}|PruebaProducto\\PruebaProducto.csproj|solutionrelative:pruebaproducto\\views\\home\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lizeth\\Documents\\Prueba\\PruebaProducto\\PruebaProducto\\Views\\Home\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "PruebaProducto\\Views\\Home\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\Lizeth\\Documents\\Prueba\\PruebaProducto\\PruebaProducto\\Views\\Home\\Eliminar.cshtml",
+              "RelativeToolTip": "PruebaProducto\\Views\\Home\\Eliminar.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T17:25:03.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lizeth\\Documents\\Prueba\\PruebaProducto\\PruebaProducto\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PruebaProducto\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lizeth\\Documents\\Prueba\\PruebaProducto\\PruebaProducto\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PruebaProducto\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T16:50:41.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoDetalle.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lizeth\\Documents\\Prueba\\PruebaProducto\\PruebaProducto\\Views\\Home\\ProductoDetalle.cshtml",
+              "RelativeDocumentMoniker": "PruebaProducto\\Views\\Home\\ProductoDetalle.cshtml",
+              "ToolTip": "C:\\Users\\Lizeth\\Documents\\Prueba\\PruebaProducto\\PruebaProducto\\Views\\Home\\ProductoDetalle.cshtml",
+              "RelativeToolTip": "PruebaProducto\\Views\\Home\\ProductoDetalle.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T16:35:43.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lizeth\\Documents\\Prueba\\PruebaProducto\\PruebaProducto\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PruebaProducto\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lizeth\\Documents\\Prueba\\PruebaProducto\\PruebaProducto\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PruebaProducto\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAA2wEgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:48:43.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+﻿@model PruebaProducto.Models.Producto
+@{
+    ViewData["Title"] = "Eliminar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="text-center">
+        <h1 class="text-danger">Eliminar Producto</h1>
+    </div>
+    <div class="card-body">
+        <hr />
+        <form asp-action="Eliminar" asp-controller="Home" method="post">
+            <input type="hidden" asp-for="IdProducto" />
+            <div class="mb-2">
+                <label class="col-form-label" asp-for="Nombre">Nombre del producto</label>
+                <input class="form-control form-control-sm" type="text" asp-for="Nombre" disabled />
+            </div>
+            <div class="mb-2">
+                <label class="col-form-label" asp-for="Descripcion">Descripción</label>
+                <input class="form-control form-control-sm" type="text" asp-for="Descripcion" disabled />
+            </div>
+            <div class="mb-2">
+                <label class="col-form-label" asp-for="Precio">Precio</label>
+                <input class="form-control form-control-sm" type="text" asp-for="Precio" disabled />
+            </div>
+            <div class="mb-2">
+                <label class="col-form-label" asp-for="FechaCreacion">Fecha</label>
+                <input class="form-control form-control-sm" type="date" asp-for="FechaCreacion" disable />
+            </div>
+            <div class="mb-2">
+                <label class="col-form-label" asp-for="oEstado.IdEstado">Estado</label>
+                <input class="form-control form-control-sm" type="text" asp-for="oEstado.IdEstado" disable />
+            </div>
+            <div class="mb-2">
+                <button class="btn btn-danger btn-sm" type="submit" >Eliminarr</button>
+                <a class="btn btn-sm" asp-action="Index" asp-controller="Home"> Volver</a>
+            </div>
+        </form>
+    </div>
+
+</div>
+
